@@ -40,6 +40,18 @@ const Projects = () => {
       liveLink: 'https://t.me/IdeaBA_bot',
       githubLink: 'https://github.com/isaaclk91207-oss/IBOS_telegramBot',
     },
+    {
+      title: 'Project 4',
+      description: 'This is my Fieldbook project for farmers. It is a platform to connect farmers with experts and provide them with the necessary information and resources.',
+      technologies: ['React(Native)', 'Node.js (Express)', 'Neon'],
+      liveLink: 'https://fieldbook2026.pages.dev',
+    },
+    {
+      title: 'Project 5',
+      description: 'This is my Fieldmessenger project for farmers. It is a platform to connect farmers with experts and provide them with the necessary information and resources.',
+      technologies: ['React(Native)', 'Node.js (Express)', 'Neon'],
+      liveLink: 'https://fieldmessenger2026.pages.dev',
+    }
   ];
 
   return (
