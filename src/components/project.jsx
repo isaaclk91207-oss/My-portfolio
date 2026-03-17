@@ -49,7 +49,7 @@ const Projects = () => {
     {
       title: 'Project 5',
       description: 'This is my Fieldmessenger project for farmers. It is a platform to connect farmers with experts and provide them with the necessary information and resources.',
-      technologies: ['React(Native)', 'Node.js (Express)', 'Neon'],
+      technologies: ['React(Native)', 'Python(Socket)', 'Neon'],
       liveLink: 'https://fieldmessenger2026.pages.dev',
     }
   ];
