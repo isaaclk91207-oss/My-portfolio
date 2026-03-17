@@ -56,7 +56,15 @@ const SocialLink = styled.a`
     text-decoration: underline;
   }
 `;
-
+const NeedHelpLink = styled.a`
+  display: inline-block;
+  margin-top: 1rem;
+  color: #007bff;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+`;
 const Contact = () => {
   const [formData, setFormData] = useState({
     name: '',
@@ -142,6 +150,7 @@ const Contact = () => {
           {formStatus === 'submitting' ? 'Submitting...' : 'Send Message'}
         </FormButton>
       </ContactForm>
+      <NeedHelpLink href="mailto: isaaclk99@gmail.com">Need Help? Contact Me</NeedHelpLink>
 
       <SocialLinksContainer>
         <SocialLink href="https://www.linkedin.com/in/isaaclk99/" target="_blank" rel="noopener noreferrer">
