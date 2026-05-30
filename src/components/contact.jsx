@@ -159,6 +159,9 @@ const Contact = () => {
         <SocialLink href="https://github.com/isaaclk91207-oss" target="_blank" rel="noopener noreferrer">
           GitHub
         </SocialLink>
+        <SocialLink href="https://www.youtube.com/@isaaccodesmm" target="_blank" rel="noopener noreferrer">
+          YouTube
+        </SocialLink>
         <SocialLink href="https://line.me/ti/p/8y8vDx82wU" target="_blank" rel="noopener noreferrer">
           Line
         </SocialLink>

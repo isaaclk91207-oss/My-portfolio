@@ -21,7 +21,6 @@ const Hero = () => {
   return (
     <HeroContainer>
       <HeroTitle>Ei Thazin Htay</HeroTitle>
-      <HeroSubtitle>Software Engineer</HeroSubtitle>
     </HeroContainer>
   );
 };

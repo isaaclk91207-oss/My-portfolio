@@ -51,6 +51,12 @@ const Projects = () => {
       description: 'This is my Fieldmessenger project for farmers. It is a platform to connect farmers with experts and provide them with the necessary information and resources.',
       technologies: ['React(Native)', 'Python(Socket)', 'Neon'],
       liveLink: 'https://fieldmessenger2026.pages.dev',
+    },
+    {
+       title: 'Project 5',
+      description: 'This project is my own idea and it is a platform for businesses AI assistant. This project is still in development and it is not live yet.This is a MVP status project and teamwork project but my own idea.BIOS AI is for business industry.',
+      technologies: ['Next.js', 'Node.js(For MVP)', 'MySQL'],
+      liveLink: 'https://chat.biosai.website',
     }
   ];
 

@@ -21,7 +21,7 @@ const About = () => {
     <AboutContainer>
       <AboutTitle>About Me</AboutTitle>
       <AboutText>
-       I am a passionate Software Engineer with strong experience in full‑stack development. 
+       I am a passionate Junior Developer with strong experience in full‑stack development. 
 I enjoy building scalable web and mobile applications using React, Next.js, React Native, Node.js, and FastAPI. 
 I am also familiar with SQL databases, security practices like encryption and decryption, and DevOps tools such as Git and Docker. 
 Beyond coding, I value teamwork, problem solving, and continuous learning. 

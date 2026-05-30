@@ -7,6 +7,7 @@ import Contact from '../components/contact';
 import Services from '../components/service';
 import FAQ from '../components/FAQ';
 import SupportIcon from '../components/supportIcon';
+import YouTube from '../components/youtube';
 
 
 const HomePage = () => {
@@ -23,6 +24,7 @@ const HomePage = () => {
       <Services />
       <Projects />
       <Skills />
+      <YouTube />
       <Contact />
       <FAQ show={showFAQ} onClose={toggleFAQ} /> {/* Pass the showFAQ state to FAQ component */}
       <SupportIcon onClick={toggleFAQ} /> {/* Add the SupportIcon */}

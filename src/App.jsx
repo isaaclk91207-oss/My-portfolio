@@ -32,6 +32,7 @@ function App() {
         <h1>My Portfolio</h1>
         <Nav>
           <StyledLink to="/">Home</StyledLink>
+          <StyledLink to="/#youtube">YouTube</StyledLink>
           {/* Add more links to other pages if you create them */}
         </Nav>
       </Header>
