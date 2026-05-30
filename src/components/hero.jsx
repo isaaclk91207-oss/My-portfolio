@@ -12,11 +12,6 @@ const HeroTitle = styled.h1`
   margin-bottom: 1rem;
 `;
 
-const HeroSubtitle = styled.p`
-  font-size: 1.2rem;
-  color: #555;
-`;
-
 const Hero = () => {
   return (
     <HeroContainer>

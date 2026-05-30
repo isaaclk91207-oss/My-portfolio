@@ -49,11 +49,6 @@ const ChannelName = styled.h3`
   color: #333;
 `;
 
-const ChannelStats = styled.p`
-  color: #666;
-  font-size: 1rem;
-`;
-
 const SubscribeButton = styled.a`
   background-color: #ff0000;
   color: white;
