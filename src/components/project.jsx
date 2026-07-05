@@ -57,6 +57,12 @@ const Projects = () => {
       description: 'This project is my own idea and it is a platform for businesses AI assistant. This project is still in development and it is not live yet.This is a MVP status project and teamwork project but my own idea.BIOS AI is for business industry.',
       technologies: ['Next.js', 'Node.js(For MVP)', 'MySQL'],
       liveLink: 'https://chat.biosai.website',
+    },
+    {
+      title: 'Project 6',
+      description: 'This is my Personal AI project. It is a memory-based AI project. Phase 1: basic chatbot functionality is working fine. Phase 2: conversation history management is implemented and operational. Phase 3: integrated a sqlite3 database to store conversation history, also working fine. The project is production-ready and includes a complete workflow (User -> Input -> History -> SystemPrompt -> OpenAI client -> LLM response -> History update -> screen).',
+      technologies: ['Next.js', 'Python(Flask)', 'sqlite3'],
+      liveLink: 'https://personalai-omega.vercel.app',
     }
   ];
 
